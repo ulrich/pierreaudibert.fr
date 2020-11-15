@@ -7,5 +7,3 @@ Vous pouvez visualiser le site sous Docker :
 ```
 docker run --name pierreaudibert -v $(pwd):/usr/share/nginx/html:ro -d -p 8080:80 nginx
 ```
-
-Test 16.
